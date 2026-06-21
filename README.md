@@ -59,7 +59,9 @@ Descargá el APK desde la sección [Releases](../../releases) e instalalo en tu 
 
 ## Licencia
 
-MIT — ver [LICENSE](LICENSE)
+El código fuente está bajo licencia MIT — ver [LICENSE](LICENSE).
+
+Los assets de marca (`assets/logo.png`, `assets/icon.png`) son propiedad de Thunderbolt.arg. Todos los derechos reservados. No están incluidos en la licencia MIT y no pueden ser usados, copiados ni distribuidos sin autorización.
 
 ---
 
@@ -124,4 +126,6 @@ Download the APK from the [Releases](../../releases) section and install it on y
 
 ## License
 
-MIT — see [LICENSE](LICENSE)
+The source code is licensed under MIT — see [LICENSE](LICENSE).
+
+Brand assets (`assets/logo.png`, `assets/icon.png`) are property of Thunderbolt.arg. All rights reserved. They are not covered by the MIT license and may not be used, copied or distributed without authorization.
