@@ -1,3 +1,9 @@
+# IDE and tooling
+.claude/
+.idea/
+.vscode/
+*.iml
+
 # Miscellaneous
 *.class
 *.lock
